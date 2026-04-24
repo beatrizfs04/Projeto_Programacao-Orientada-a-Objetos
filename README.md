@@ -1,4 +1,4 @@
-# Projeto de Projeto Programação Orientada a Objetos
+# Projeto de Programação Orientada a Objetos
 ## O que foi feito?
 Esta é uma aplicação para gerir os serviços fornecidos por um ginásio (com aulas de grupo e individuais).
 
