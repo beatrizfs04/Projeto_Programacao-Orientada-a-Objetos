@@ -13,7 +13,6 @@ Esta é uma aplicação para gerir os serviços fornecidos por um ginásio (com 
 Este projeto foi realizado por 3 alunas da Lincenciatura de Informática Web, Móvel e na Nuvem.
 - Beatriz Santos 
 - Manoela Azevedo 
-- Rodrigo Paiva 
 
 ## Que linguagens de programação foram utilizadas?
 - Java
