@@ -10,7 +10,7 @@ Esta é uma aplicação para gerir os serviços fornecidos por um ginásio (com 
 - A aplicação foi documentada utilizando JavaDoc.
 
 ## Quem participou?
-Este projeto foi realizado por 3 alunas da Lincenciatura de Informática Web, Móvel e na Nuvem.
+Este projeto foi realizado por 2 alunas da Lincenciatura de Informática Web, Móvel e na Nuvem.
 - Beatriz Santos 
 - Manoela Azevedo 
 
