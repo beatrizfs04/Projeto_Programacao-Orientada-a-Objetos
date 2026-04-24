@@ -1,4 +1,4 @@
-# Projeto de Base de Dados
+# Projeto de Projeto Programação Orientada a Objetos
 ## O que foi feito?
 Esta é uma aplicação para gerir os serviços fornecidos por um ginásio (com aulas de grupo e individuais).
 
